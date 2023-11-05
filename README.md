@@ -1,9 +1,9 @@
 ![Static Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![Static Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-# Dockerize Django
+# Dockerize Django and Mailhog
 
 ## Description
 -----------
-This is a mini tutorial for containerising (Dockerize) Django.
+This is a mini tutorial for containerising (Dockerize) Django and Mailhog for email testing.
 
 ## Steps to Run
 1. Clone the repo
