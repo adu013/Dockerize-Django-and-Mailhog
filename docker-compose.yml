@@ -14,3 +14,9 @@ services:
       - "8000:8000"
     env_file:
       - ./.env.dev
+
+  mailhog:
+    image: mailhog/mailhog
+    ports:
+      - "1025:1025"
+      - "8025:8025"
